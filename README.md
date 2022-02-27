@@ -5,11 +5,14 @@
 # ChatBot using Python
 ## What is a chatbot?
 A ChatBot is a machine-learning based conversational dialogue engine built using Python which makes it possible to generate responses based on collections of known conversations. The language independent design of chatbot allows it to be trained to speak any language.
+![image](https://user-images.githubusercontent.com/93142399/155870220-4b2e8536-aaca-4fb2-8cf3-f4ce251937eb.png)
 
 ## History of chatbots
 History of chatbots dates back to 1966 when a computer program called ELIZA was invented by Weizenbaum. It imitated the language of a psychotherapist from only 200 lines of code. You can still converse it here: [Eliza](https://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm?utm_source=ubisend.com&utm_medium=blog-link&utm_campaign=ubisend)
 
 On similar lines let's create a very basic chatbot utlising the Python's NLTK library.It's a very simple bot with hardly any cognitive skills,but still a good way to get into NLP and get to know about chatbots.
+
+
 
 
 
