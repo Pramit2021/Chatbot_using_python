@@ -9,9 +9,6 @@ A ChatBot is a machine-learning based conversational dialogue engine built using
 ![Sample-2](https://user-images.githubusercontent.com/93142399/155870396-1161a42f-501c-4ff4-8e32-15965dc8125c.png)
 ![Sample-3](https://user-images.githubusercontent.com/93142399/155870469-4d2fccc9-d9c9-4732-8c40-8d8ba4b6b10b.png)
 
-
-
-
 ## History of chatbots
 History of chatbots dates back to 1966 when a computer program called ELIZA was invented by Weizenbaum. It imitated the language of a psychotherapist from only 200 lines of code. You can still converse it here: [Eliza](https://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm?utm_source=ubisend.com&utm_medium=blog-link&utm_campaign=ubisend)
 
