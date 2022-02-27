@@ -6,6 +6,8 @@
 ## What is a chatbot?
 A ChatBot is a machine-learning based conversational dialogue engine built using Python which makes it possible to generate responses based on collections of known conversations. The language independent design of chatbot allows it to be trained to speak any language.
 ![Sample-1](https://user-images.githubusercontent.com/93142399/155870341-35898c7b-78db-4d53-8c73-a41ce026d04a.PNG)
+![Sample-2](https://user-images.githubusercontent.com/93142399/155870396-1161a42f-501c-4ff4-8e32-15965dc8125c.png)
+
 
 
 ## History of chatbots
